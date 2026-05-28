@@ -14,4 +14,4 @@ PhantomOverlay. Third-party software targeting Call of Duty (Warzone, Black Ops 
 
 
 TAGS
-phantom-overlay, phantom, call-of-duty, warzone, black-ops-6, third-party-software            
+phantom-overlay, phantom, call-of-duty, warzone, black-ops-6, third-party-software             
